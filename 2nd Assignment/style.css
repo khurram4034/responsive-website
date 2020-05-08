@@ -1,0 +1,22 @@
+.align{
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    color: #0063AE;
+    font-size: 24px;
+    
+}
+.align1{
+    padding-top: 15px;
+    padding-left: 20px;
+    background: blueviolet;
+    width: 80%;
+    color: white;
+    margin: auto;
+    }
+
+#adr{
+    position: absolute;
+}
